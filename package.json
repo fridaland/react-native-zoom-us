@@ -13,7 +13,7 @@
     "react-native",
     "zoom.us"
   ],
-  "author": "mieszko4",
+  "author": "fridaland",
   "license": "MIT",
   "peerDependencies": {
     "react-native": ">0.60.0"
@@ -25,5 +25,6 @@
   },
   "dependencies": {
     "invariant": "^2.2.4"
-  }
+  },
+  "repository": "git@github.com:fridaland/react-native-zoom-us.git"
 }
